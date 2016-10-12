@@ -5,3 +5,8 @@
 @import 'components/navigation';
 @import 'components/body';
 @import 'components/footer';
+
+//custom resets and grids
+@import 'reset/reset';
+@import 'flexbox/flexbox';
+@import 'flexbox/flexbox-mixins';
