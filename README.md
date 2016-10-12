@@ -37,6 +37,10 @@ Includes the following dependencies:
 
 Futher Information on <a href="http://www.digitalwonderlandagency.co.uk">Digital Wonderland</a>
 
+UPDATE:
+Added meyer reset and flexbox mixins to sass
+
+
 TODO:
 
 Try handlebars or nunjucks in place of panini
